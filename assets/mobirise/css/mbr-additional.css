@@ -1354,7 +1354,7 @@ section.lazy-placeholder:after {
 .cid-s7WU4ypqNA {
   padding-top: 15px;
   padding-bottom: 30px;
-  background-color: #000000;
+  background-color: #00d073;
 }
 @media (min-width: 992px) {
   .cid-s7WU4ypqNA .mbr-figure {
@@ -1373,7 +1373,7 @@ section.lazy-placeholder:after {
 .cid-s7WTUegW8p {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #000000;
+  background-color: #00d073;
 }
 .cid-s7WTUegW8p .mbr-section-subtitle {
   color: #ffffff;
@@ -1450,10 +1450,29 @@ section.lazy-placeholder:after {
 .cid-s7WOoKvRvb .mbr-section-subtitle DIV {
   text-align: center;
 }
+.cid-s82OYzEHiL {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-s82OYzEHiL .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s82OYzEHiL .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-s82OYzEHiL .mbr-text {
+  color: #767676;
+  text-align: center;
+}
 .cid-s7Fng6Eo60 {
-  padding-top: 120px;
+  padding-top: 0px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/galaxy-background-blue-inspirational-istock-blue-purple-galaxy-web-res-elevate-festival-this-year-of-galaxy-background-blue.jpg");
+  background-color: #ffffff;
 }
 .cid-s7Fng6Eo60 .mbr-section-subtitle {
   color: #767676;
@@ -1499,7 +1518,7 @@ section.lazy-placeholder:after {
 .cid-s7Fnfdivkn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/galaxy-background-blue-inspirational-istock-blue-purple-galaxy-web-res-elevate-festival-this-year-of-galaxy-background-blue.jpg");
+  background-color: #ffffff;
 }
 .cid-s7Fnfdivkn .mbr-section-subtitle {
   color: #767676;
@@ -1545,7 +1564,7 @@ section.lazy-placeholder:after {
 .cid-s7Fgbx0fev {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/galaxy-background-blue-inspirational-istock-blue-purple-galaxy-web-res-elevate-festival-this-year-of-galaxy-background-blue.jpg");
+  background-color: #ffffff;
 }
 .cid-s7Fgbx0fev .mbr-section-subtitle {
   color: #767676;
