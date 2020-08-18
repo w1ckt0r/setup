@@ -1351,39 +1351,16 @@ section.lazy-placeholder:after {
 .cid-s7ER4hsHMl P {
   text-align: left;
 }
-.cid-s7WU4ypqNA {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #00d073;
-}
-@media (min-width: 992px) {
-  .cid-s7WU4ypqNA .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s7WU4ypqNA .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-s7WU4ypqNA .mbr-text {
-  color: #767676;
-  text-align: center;
-}
-.cid-s7WTUegW8p {
-  padding-top: 0px;
+.cid-s82TrxJP03 {
+  padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #00d073;
+  background-image: url("../../../assets/images/fundo-galaxy-1-1920x1080.png");
 }
-.cid-s7WTUegW8p .mbr-section-subtitle {
-  color: #ffffff;
+.cid-s82TrxJP03 .mbr-section-subtitle {
   text-align: left;
 }
-.cid-s7WTUegW8p .mbr-section-subtitle DIV {
+.cid-s82TrxJP03 H2 {
   text-align: left;
-}
-.cid-s7WTUegW8p DIV {
-  text-align: center;
 }
 .cid-s7F7kGeS5M {
   background-image: url("../../../assets/images/b2b3c487-b7ac-44ac-8285-1fba1245a9fe-1920x805.png");
@@ -1516,7 +1493,7 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s7Fnfdivkn {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -1562,8 +1539,8 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-s7Fgbx0fev {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-s7Fgbx0fev .mbr-section-subtitle {
